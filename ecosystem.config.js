@@ -2,7 +2,7 @@ module.exports = {
     apps: [
         {
             name : "api-teste",
-            script : "runApi.sh",
+            script : "run.sh",
             max_memory_restart : "1G"
         }
     ]
