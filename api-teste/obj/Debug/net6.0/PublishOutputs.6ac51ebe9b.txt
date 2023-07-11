@@ -1,0 +1,11 @@
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\api-teste.exe
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\appsettings.Development.json
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\appsettings.json
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\api-teste.dll
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\api-teste.deps.json
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\api-teste.runtimeconfig.json
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\api-teste.pdb
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Desenvolvimento\Git\dotnet-teste\api-teste\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
